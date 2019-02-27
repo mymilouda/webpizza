@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 /**
  * Fichier d'exécution de l'application
@@ -37,3 +38,6 @@ require_once "../private/app/src/load_utils.php";
  * 7. Compilation de la page
  */
 require_once "../private/app/src/compile.php";
+=======
+Yop l'app démarre !!
+>>>>>>> Ajout du fichier de démarrage de l'app
