@@ -1,0 +1,70 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.col img {
+    height: 100px;
+    width: 100px;
+}
+
+.col img {
+   justify-content: center
+}
+
+div {
+    text-align: center;
+}
+
+/* .footer {
+    
+    width: 1050px;
+    height: 500px;
+    background-color: black;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: white;
+    text-align: center;
+} */
+
+.card {
+    height: 600px;
+}
+
+.container-1 {
+    color: white;
+}
+
+h5 {
+    margin-top: 200PX;
+}
+
+#card-text {
+    border: 1px solid white;
+    background-color: black;
+    height: 150px;
+    
+    color: white;
+    
+}
+
+.champ-1 {
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+}
+
+.champ-2 {
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+}
+
+.champ-3 {
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+}
